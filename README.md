@@ -1,6 +1,6 @@
 ﻿# PEC3_Paola_Cano
 
-###Paola Cano 27 de Mayo del 2024
+Paola Cano 27 de Mayo del 2024
 
 ## Introducción
 
