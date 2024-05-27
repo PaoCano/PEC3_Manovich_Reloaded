@@ -1,5 +1,7 @@
 ﻿# PEC3_Paola_Cano
 
+###Paola Cano 27 de Mayo del 2024
+
 ## Introducción
 
 En su obra "El software toma el mando", Lev Manovich analiza cómo la hibridación, un principio clave del software, ha transformado las prácticas culturales y tecnológicas. La hibridación se refiere a la combinación de diferentes medios, técnicas y formas de expresión en nuevas creaciones híbridas. Este ensayo examina dos ejemplos recientes de hibridación: Pokémon Go y Alexa, demostrando cómo estos casos representan la evolución continua y la convergencia de diversas tecnologías y experiencias de usuario.
