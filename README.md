@@ -61,18 +61,6 @@ El uso de servicios en la nube es crucial para el funcionamiento de Alexa, permi
 
 La integración de Alexa en los hogares demuestra cómo la hibridación tecnológica puede transformar el espacio doméstico en un entorno interactivo y adaptativo, donde la tecnología se convierte en un facilitador esencial de la vida cotidiana.
 
-### La Ciudad como Plataforma de Juego
-
-Siguiendo la idea de Manovich sobre las plataformas de software que organizan y estructuran la experiencia humana, Pokémon Go convierte la ciudad en una plataforma de juego masiva. Los jugadores interactúan con esta plataforma, participando en actividades lúdicas que se superponen y enriquecen su percepción del entorno urbano. Esta integración de lo digital y lo físico desdibuja las fronteras entre el mundo virtual y el mundo real, dando lugar a una experiencia híbrida única.
-
-### Datos y Control en el Espacio Público
-
-La recopilación de datos por parte de Pokémon Go, aunque ha generado preocupaciones sobre la privacidad, también ofrece una ventana al potencial de la vigilancia ubicua en la era digital. Manovich discute cómo el software no solo organiza la información, sino que también ejerce control sobre nuestras interacciones con el entorno. En el caso de Pokémon Go, los datos de ubicación y las interacciones de los jugadores alimentan un sistema que influye en su comportamiento y movimiento en el espacio público, lo que plantea cuestiones sobre el acceso y la propiedad de estos datos.
-
-### Cultura Participativa y Reimaginación del Espacio
-
-La cultura participativa, un concepto central en el análisis de Manovich sobre la cultura del software, se manifiesta en la colaboración y la creación de significado colectivo en torno a Pokémon Go. Los jugadores contribuyen activamente a la expansión y evolución del juego a través de eventos comunitarios, intercambio de estrategias y creación de contenido generado por usuarios. Esta participación colectiva no solo enriquece la experiencia del juego, sino que también reimagina el espacio urbano como un escenario para la interacción social y la creatividad digital.
-
 ### Hogar como Espacio Computacional
 
 Manovich nos invita a ver el software como una capa que se extiende sobre el mundo físico, organizando y mediando nuestras interacciones con él. En el caso de Alexa, el hogar se convierte en un espacio computacional donde la inteligencia artificial y los datos se entrelazan con nuestros entornos físicos. Esto transforma la dinámica de nuestros hogares, convirtiéndolos en entidades dinámicas y adaptables que responden no solo a nuestras necesidades, sino también a nuestros deseos y comandos verbales.
